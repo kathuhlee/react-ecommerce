@@ -1,0 +1,134 @@
+[
+    {
+        "id": 0,
+        "Name": "The Body Keeps the Score",
+        "Price": 19.99,
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41D3enj6JVS._SX324_BO1,204,203,200_.jpg",
+        "Description": "Renowned trauma expert Bessel van der Kolk has spent over three decades working with survivors. In The Body Keeps the Score, he transforms our understanding of traumatic stress, revealing how it literally rearranges the brain’s wiring—specifically areas dedicated to pleasure, engagement, control, and trust. He shows how these areas can be reactivated through innovative treatments including neurofeedback, mindfulness techniques, play, yoga, and other therapies. Based on Dr. van der Kolk’s own research and that of other leading specialists, The Body Keeps the Score offers proven alternatives to drugs and talk therapy—and a way to reclaim lives.",
+        "Inventory": 3,
+        "SerialNumber": 123,
+        "Manufacturer": "Penguin House",
+        "Category": "Self Help"
+    },
+    {
+        "id": 1,
+        "Name": "Crying in H Mart",
+        "Price": 15.99,
+        "Image": "https://images.penguinrandomhouse.com/cover/9780525657743",
+        "Description": "In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food.",
+        "Inventory": 5,
+        "SerialNumber": 132,
+        "Manufacturer": "Penguin House",
+        "Category": "Memoir"
+    },
+    {
+        "id": 2,
+        "Name": "Minor Feelings",
+        "Price": 12.99,
+        "Image": "https://images1.penguinrandomhouse.com/cover/9781984820365",
+        "Description": "Poet and essayist Cathy Park Hong blends memoir, cultural criticism, and history to expose the truth of racialized consciousness in America. Binding these essays together is Hong's theory of 'minor feelings.'",
+        "Inventory": 4,
+        "SerialNumber": 201,
+        "Manufacturer": "Penguin House",
+        "Category": "Memoir"
+    },
+    {
+        "id": 3,
+        "Name": "Grit",
+        "Price": 11.99,
+        "Image": "https://theonlinephotographer.typepad.com/.a/6a00df351e888f8834022ad3bcd7c8200b-800wi",
+        "Description": "In this must-read book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and business people both seasoned and new that the secret to outstanding achievement is not talent but a focused persistence called grit.",
+        "Inventory": 2,
+        "SerialNumber": 101,
+        "Manufacturer": "Penguin House",
+        "Category": "Self Help"
+    },
+    {
+        "id": 4,
+        "Name": "Being Mortal",
+        "Price": 16.99,
+        "Image": "https://m.media-amazon.com/images/I/51ISw971LnL.jpg",
+        "Description": "Gawande, a practicing surgeon, addresses his profession's ultimate limitation, arguing that quality of life is the desired goal for patients and families. Gawande offers examples of freer, more socially fulfilling models for assisting the infirm and dependent elderly, and he explores the varieties of hospice care to demonstrate that a person's last weeks or months may be rich and dignified.",
+        "Inventory": 5,
+        "SerialNumber": 246,
+        "Manufacturer": "Penguin House",
+        "Category": "Memoir"
+    },
+    {
+        "id": 5,
+        "Name": "Ikigai",
+        "Price": 12.99,
+        "Image": "https://images.penguinrandomhouse.com/cover/9780143130727",
+        "Description": "The people of Japan believe that everyone has an ikigai – a reason to jump out of bed each morning. And according to the residents of the Japanese island of Okinawa – the world’s longest-living people – finding it is the key to a longer and more fulfilled life. Inspiring and comforting, this book will give you the life-changing tools to uncover your personal ikigai. It will show you how to leave urgency behind, find your purpose, nurture friendships and throw yourself into your passions.",
+        "Inventory": 5,
+        "SerialNumber": 743,
+        "Manufacturer": "Penguin House",
+        "Category": "Self Help"
+    },
+    {
+        "id": 6,
+        "Name": "The New Jim Crow",
+        "Price": 20.99,
+        "Image": "https://newjimcrow.com/wp-content/uploads/2019/12/new_jim_crow_reissue_pb_final-1.jpg",
+        "Description": "In this incisive critique, former litigator-turned-legal-scholar Michelle Alexander provocatively argues that we have not ended racial caste in America: we have simply redesigned it. Alexander shows that, by targeting black men and decimating communities of color, the U.S. criminal justice system functions as a contemporary system of racial control, even as it formally adheres to the principle of color blindness. The New Jim Crow challenges the civil rights community--and all of us--to place mass incarceration at the forefront of a new movement for racial justice in America.",
+        "Inventory": 5,
+        "SerialNumber": 823,
+        "Manufacturer": "Penguin House",
+        "Category": "Non-fiction"
+    },
+    {
+        "id": 7,
+        "Name": "Digital Gold",
+        "Price": 12.99,
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51fmuxPkOwL.jpg",
+        "Description": "An unusual tale of group invention, Digital Gold charts the rise of the Bitcoin technology through the eyes of the movement’s colorful central characters, including an Argentinian millionaire, a Chinese entrepreneur, Tyler and Cameron Winklevoss, and Bitcoin’s elusive creator, Satoshi Nakamoto. Already, Bitcoin has led to untold riches for some, and prison terms for others.",
+        "Inventory": 5,
+        "SerialNumber": 948,
+        "Manufacturer": "Penguin House",
+        "Category": "Business"
+    },
+    {
+        "id": 8,
+        "Name": "The Black Swan",
+        "Price": 16.49,
+        "Image": "https://m.media-amazon.com/images/I/41a4OJ06jlL.jpg",
+        "Description": "A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was. The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives.",
+        "Inventory": 5,
+        "SerialNumber": 467,
+        "Manufacturer": "Penguin House",
+        "Category": "Non-fiction"
+    },
+    {
+        "id": 9,
+        "Name": "Barbarians at the Gate",
+        "Price": 12.99,
+        "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427999081l/8840394.jpg",
+        "Description": "A #1 New York Times bestseller and arguably the best business narrative ever written, Barbarians at the Gate is the classic account of the fall of RJR Nabisco. An enduring masterpiece of investigative journalism by Bryan Burrough and John Helyar, it includes a new afterword by the authors that brings this remarkable story of greed and double-dealings up to date twenty years after the famed deal. The Los Angeles Times calls Barbarians at the Gate, “Superlative.” The Chicago Tribune raves, “It’s hard to imagine a better story...and it’s hard to imagine a better account.” And in an era of spectacular business crashes and federal bailouts, it still stands as a valuable cautionary tale that must be heeded.",
+        "Inventory": 5,
+        "SerialNumber": 349,
+        "Manufacturer": "Penguin House",
+        "Category": "Business"
+    },
+    {
+        "id": 10,
+        "Name": "Atomic Habits",
+        "Price": 10.99,
+        "Image": "http://prodimage.images-bn.com/pimages/9780735211292_p0_v11_s1200x630.jpg",
+        "Description": "Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+        "Inventory": 5,
+        "SerialNumber": 482,
+        "Manufacturer": "Penguin House",
+        "Category": "Self Help"
+    },
+    {
+        "id": 11,
+        "Name": "Maybe You Should Talk to Someone",
+        "Price": 14.99,
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41dABwfpV-L._SX329_BO1,204,203,200_.jpg",
+        "Description": "Maybe You Should Talk to Someone is revolutionary in its candor, offering a deeply personal yet universal tour of our hearts and minds and providing the rarest of gifts: a boldly revealing portrait of what it means to be human, and a disarmingly funny and illuminating account of our own mysterious lives and our power to transform them.",
+        "Inventory": 5,
+        "SerialNumber": 351,
+        "Manufacturer": "Penguin House",
+        "Category": "Self Help"
+    }
+]
