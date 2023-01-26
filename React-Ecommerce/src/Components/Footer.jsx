@@ -6,7 +6,7 @@ export function Footer () {
         <footer>
             <div className="footer-wrap">
                 <div className="footer-content">
-                    &copy; Kathleen Wong 2022
+                    &copy; Kathleen Wong 2023
                 </div>
             </div>
         </footer>
