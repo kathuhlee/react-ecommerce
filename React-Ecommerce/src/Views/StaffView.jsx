@@ -15,13 +15,11 @@ export function StaffView () {
     const Login = details => {
 
         if ((details.email == adminUser.email ) && (details.password == adminUser.password)) {
-            console.log("Logged in!");
             setUser({
                 email: details.email
 
             });
         } else {
-            console.log("Incorrect credentials. Please try again.");
             setError("Incorrect credentials. Please try again.");
         }
         
